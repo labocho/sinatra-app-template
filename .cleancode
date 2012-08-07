@@ -1,0 +1,4 @@
+---
+:include: ^(Rakefile|Gemfile|Capfile|Guardfile|.*\.(rb|haml|css|coffee|js))$
+:exclude: !!null 
+:force: false
